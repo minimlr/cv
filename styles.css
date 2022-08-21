@@ -1,0 +1,45 @@
+/* Use https://colorhunt.co/ for colour pallette */
+
+body {
+  background-color: #F7ECDE;
+}
+
+hr {
+  border-style: dotted none none; /* Removes hidden additional borders */
+  width: 6%;
+  /* border-style: none;
+       border-top-style: dotted; works too --> */
+  border-color: grey; /* Changes the colour of the hr */
+  border-width: 5px; /* Changes the thickness */
+}
+h1 {
+  color: #54BAB9;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+  color: #9ED2C6;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+  color: #9ED2C6;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+  color: #F65A83;
+  font-family: Arial, Helvetica, sans-serif;
+}
